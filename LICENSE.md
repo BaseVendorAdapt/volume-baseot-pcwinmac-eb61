@@ -1,4 +1,4 @@
-# 
+# Exclusive volume-based trading bot plugins for Mac OS | Native volume-based trading bot plugins for PC Windows. Featuring decentralized exchange api and trend following — optimized for maximum performance on every platform.
 
 
 
